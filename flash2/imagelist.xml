@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+
+
+	<LoaderMax name="slideshowLoader" load="true">
+	<ImageLoader name="bike1" url="images/bike1.jpg">
+	<ImageLoader name="bike2" url="images/bike2.jpg">
+	<ImageLoader name="bike3" url="images/bike3.jpg">
+</data>LoaderMax>
+</data>
